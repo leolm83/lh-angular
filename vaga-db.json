@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 12546,
+      "nome": "Desenvolvedor Front End Junior",
+      "foto": "vaga1.jpg",
+      "descricao": "Procuramos Alguem dedicado a se superar a cada momento e a se desenvolver como pessoa e profissional",
+      "salario": 7000
+    },
+    {
+      "id": 325246,
+      "nome": "Eletrecista",
+      "foto": "vaga2.jpg",
+      "descricao": "Procuramos pessoas para compor o nosso time e evoluir com nossa empresa focada no ramo de Construcao civil",
+      "salario": 7000
+    },
+    {
+      "id": 859461,
+      "nome": "Designer Grafico Senior",
+      "foto": "vaga3.jpg",
+      "descricao": "Uma pessoa com experiencia para gerir uma equipe e conseguir gerar valor",
+      "salario": 25000
+    },
+    {
+      "id": "155426",
+      "nome": "Desenvolvedor Back end",
+      "foto": "vaga1",
+      "descricao": "pessoa desenvolvedora spring boot",
+      "salario": "6000"
+    }
+  ]
+}
